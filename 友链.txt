@@ -1,0 +1,1 @@
+添加友链 就在本目录上面那个py的文件夹里面有个index.md 在里面- [![标题](https://example.com/logo.png)](https://example.com/ "标题")就好了 记得不要空行 不然名字不能显示哦~
